@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(40,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(32,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(66,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(87,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(116,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(120,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(135,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(139,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(179,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(218,53): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(219,53): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(220,53): warning C4244: '+=': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Shahar Goldberger\Desktop\1\Graphics\Graphics\main.cpp(226,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Graphics.vcxproj -> C:\Users\Shahar Goldberger\Desktop\1\Graphics\Debug\Graphics.exe
